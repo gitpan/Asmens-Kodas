@@ -5,7 +5,7 @@ use strict;
 
 our @ISA = qw/Exporter/;
 our @EXPORT_OK = qw/tikras/;
-our $VERSION = 0.01;
+our $VERSION = 0.02;
 
 =head1 NAME
 
